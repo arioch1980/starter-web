@@ -7,10 +7,11 @@
 
 # THANKS
 
-   All my students
-   Please review
+   All my students11
+   Please review11
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
