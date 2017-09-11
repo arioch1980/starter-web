@@ -17,3 +17,7 @@ Deployment of the App
 
 
 ## How to contribute
+
+### Copyright
+
+Copyright
