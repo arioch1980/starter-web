@@ -18,6 +18,8 @@ Deployment of the App
 
 ## How to contribute
 
+Please fork this repository and then issue for request in review
+
 ### Copyright
 
 Copyright
